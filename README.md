@@ -1,4 +1,4 @@
-<img src='/content/banner01.jpg'></img>
+<img src='/content/banner0.jpg'></img>
 
 <h1 align="start">Hi 👋, I'm Umar Nauman</h1>
 <h3 align="start">Front-end developer studying the technical side of programming, and exploring new innovations.</h3>
