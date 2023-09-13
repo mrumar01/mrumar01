@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **umarnauman01@gmail.com**
-
 <p align="left">
 <a href="https://dribbble.com/https://dribbble.com/umarnauman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/umarnauman" height="30" width="40" /></a>
 </p>
