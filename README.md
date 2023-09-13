@@ -1,6 +1,6 @@
 <img src='/content/banner0.jpg'></img>
 
-<h3 align="start">Hey there, I'm a passionate student hailing from [Your Location]. My journey revolves around diving deep into the realm of programming, particularly in the world of web development. I'm on a mission to continually enhance my skills and knowledge, driven by the ever-evolving resources and technologies at our fingertips.</h3>
+<h3 align="start">Hey there, I'm a student hailing from United Kingdom. My journey revolves around diving deep into the realm of programming, particularly in the world of web development. I'm on a mission to continually enhance my skills and knowledge, driven by the ever-evolving passion for mastering the digital landscape.</h3>
 
 
 - 🌱 I’m currently learning **React**, **Web-developer** and studying *Computer science*
