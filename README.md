@@ -1,9 +1,9 @@
 <img src='/content/banner0.jpg'></img>
 
-<h1 align="start">Hi 👋, I'm Umar Nauman</h1>
 <h3 align="start">Front-end developer studying the technical side of programming, and exploring new innovations.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Web-developer** and studying *Computer science*
+- 
 
 
 <h3 align="left">Languages and Tools:</h3>
