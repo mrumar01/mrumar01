@@ -1,13 +1,10 @@
 <h1 align="start">Hi 👋, I'm Umar Nauman</h1>
 <h3 align="center">Front-end developer studying the technical side of programming, and exploring new innovations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mruamr01&label=Profile%20views&color=0e75b6&style=flat" alt="mruamr01" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **umarnauman01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dribbble.com/https://dribbble.com/umarnauman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/umarnauman" height="30" width="40" /></a>
 </p>
