@@ -3,7 +3,6 @@
 ## About me
 <p align="start">Hey there, I'm a student from United Kingdom. My journey revolves around diving deep into the realm of programming, particularly in the world of web development. I'm on a mission to continually enhance my skills and knowledge, driven by the ever-evolving passion for mastering the digital landscape.</p>
 
-<hr>
 
 ## Studying
 - 🌱 I’m currently learning **React** and **Web-development**
